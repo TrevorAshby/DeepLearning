@@ -1,4 +1,4 @@
-# CS474
+# DeepLearning
 Labs done in CS 474 - Intro. to Deep Learning
 
 * Lab1 - colab playground
